@@ -16,7 +16,7 @@
 - **Crear valor** > Ganar dinero
 
 ### 🌐 Enlaces Oficiales
-- **Rumble:** [LINK_RUMBLE_AQUI]
+- **Rumble:** [https://rumble.com/user/manifiesto_satoshi]
 - **Discord:** [PRÓXIMAMENTE]
 - **Twitter:** [PRÓXIMAMENTE]
 
