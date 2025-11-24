@@ -17,7 +17,7 @@
 
 ### 🌐 Enlaces Oficiales
 - **Rumble:** [https://rumble.com/user/manifiesto_satoshi]
-- **Discord:** [PRÓXIMAMENTE]
+- **Discord:** [[PRÓXIMAMENTE](https://discord.gg/tusB3SCQW)]
 - **Twitter:** [PRÓXIMAMENTE]
 
 ### 📂 Estructura del Proyecto
