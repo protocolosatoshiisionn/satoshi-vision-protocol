@@ -27,3 +27,9 @@ no pagamos por titulos, pagamos por soluciones
 no compramos lealtad, ganamos compromiso
 no creamos empleados, cultivamos co-creadores
 no es caridad, es inversion en valor real
+
+sistema de valoración natural:
+sin titulos jerarquicos artificiales
+sin jefes, solo coordinadores temporales
+la autoridad nace del conocimiento demostrado
+el respeto se gana con contribusiones reales
