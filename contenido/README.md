@@ -11,6 +11,8 @@ la seguridad se escalo con la adopción
 los recursos llegaron con la utilidad demostrada
 la infraestructura creció con la necesidad
 "la descentralizacion real requiere uso consciente por parte de la comunidad"
+
+
 transformación vsap:
 de espectador a creyente
 de consumidor a creador
