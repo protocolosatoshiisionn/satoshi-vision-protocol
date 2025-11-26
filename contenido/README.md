@@ -4,3 +4,4 @@
 
 
 ## Video 2: Arquitectura trinitaria aplicada https://rumble.com/v728o02--arquitectura-trinitaria-aplicada-satoshi-2.0.html
+primero la esencia, despues la infraestructura. primero primero el valor despues la escala
