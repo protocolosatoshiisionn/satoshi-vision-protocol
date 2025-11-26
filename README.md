@@ -30,3 +30,15 @@
 ---
 
 *«No enseñamos a ganar dinero. Enseñamos a crear valor.»*"
+
+ 🤖 VSAP SCRIPTS PACKAGE
+
+## 🚀 INSTALACIÓN RÁPIDA
+
+```bash
+# 1. Clonar o descargar scripts
+# 2. Ejecutar instalador
+python instalacion_config.py
+
+# 3. Verificar instalación
+python contenido_automation.py
