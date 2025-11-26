@@ -22,3 +22,8 @@ de individuo a comunidad consciente
 no vendemos producto, compartimos filosofía
 no construimos empresa, construimos movimiento
 no buscamos empleados, buscamos co-creadores
+"el conocimiento vale lo que transforma"
+no pagamos por titulos, pagamos por soluciones
+no compramos lealtad, ganamos compromiso
+no creamos empleados, cultivamos co-creadores
+no es caridad, es inversion en valor real
