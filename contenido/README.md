@@ -33,3 +33,8 @@ sin titulos jerarquicos artificiales
 sin jefes, solo coordinadores temporales
 la autoridad nace del conocimiento demostrado
 el respeto se gana con contribusiones reales
+
+🌅 ESCENARIO IDEAL:
+"VSAP se convierte en movimiento global
+ tan poderoso que tu identidad personal
+ es irrelevante para su éxito"
