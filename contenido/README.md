@@ -38,3 +38,4 @@ el respeto se gana con contribusiones reales
 "VSAP se convierte en movimiento global
  tan poderoso que tu identidad personal
  es irrelevante para su éxito"
+#video día 1 https://rumble.com/v72b1qo-el-despertar-vsap-da-1.html
