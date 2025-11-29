@@ -18,7 +18,7 @@
 ### 🌐 Enlaces Oficiales
 - **Rumble:** [https://rumble.com/user/manifiesto_satoshi]
 - **Discord:** [(https://discord.gg/tusB3SCQW)]
-- **Twitter:** [PRÓXIMAMENTE]
+- **Twitter:** [https://x.com/satoshi_vsap]
 
 ### 📂 Estructura del Proyecto
 - `/filosofía` - Principios fundamentales
